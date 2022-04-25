@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HowLongToWatch/static/css/main.073c9b0a.css",
-    "main.js": "/HowLongToWatch/static/js/main.f16f43d9.js",
+    "main.css": "/HowLongToWatch/static/css/main.fb3d1a72.css",
+    "main.js": "/HowLongToWatch/static/js/main.5448d9ce.js",
     "static/js/787.28cb0dcd.chunk.js": "/HowLongToWatch/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/HowLongToWatch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/HowLongToWatch/index.html",
-    "main.073c9b0a.css.map": "/HowLongToWatch/static/css/main.073c9b0a.css.map",
-    "main.f16f43d9.js.map": "/HowLongToWatch/static/js/main.f16f43d9.js.map",
+    "main.fb3d1a72.css.map": "/HowLongToWatch/static/css/main.fb3d1a72.css.map",
+    "main.5448d9ce.js.map": "/HowLongToWatch/static/js/main.5448d9ce.js.map",
     "787.28cb0dcd.chunk.js.map": "/HowLongToWatch/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.f16f43d9.js"
+    "static/css/main.fb3d1a72.css",
+    "static/js/main.5448d9ce.js"
   ]
 }
